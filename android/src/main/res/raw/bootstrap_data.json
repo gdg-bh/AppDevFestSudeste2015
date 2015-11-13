@@ -1,0 +1,768 @@
+{
+  "map": [
+    {
+      "tiles": {
+        "1": {
+          "url": "",
+          "filename": "floor1-2014-v1.svg"
+        },
+        "0": {
+          "url": "",
+          "filename": "floor2-2014-v1.svg"
+        },
+        "2": {
+          "url": "",
+          "filename": "floor0-2014-v1.svg"
+        }
+      },
+      "config": {
+        "enableMyLocation": "false"
+      },
+      "markers": {
+        "1": [
+          {
+            "lat": 37.783387683090886,
+            "lng": -122.40415100008249,
+            "type": "session",
+            "id": "room1",
+            "title": "Room 1"
+          },
+          {
+            "lat": 37.783217830919796,
+            "lng": -122.40386098623274,
+            "type": "session",
+            "id": "room2",
+            "title": "Room 2"
+          },
+          {
+            "lat": 37.783247243726194,
+            "lng": -122.40433372557162,
+            "type": "session",
+            "id": "room3",
+            "title": "Room 3"
+          },
+          {
+            "lat": 37.783044533606585,
+            "lng": -122.40409433841705,
+            "type": "session",
+            "id": "room4",
+            "title": "Room 4"
+          },
+          {
+            "lat": 37.78286938101629,
+            "lng": -122.4043035507202,
+            "type": "session",
+            "id": "room5",
+            "title": "Room 5"
+          },
+          {
+            "lat": 37.78297351868808,
+            "lng": -122.4038080126047,
+            "type": "session",
+            "id": "room6",
+            "title": "Room 6"
+          },
+          {
+            "lat": 37.78275146413703,
+            "lng": -122.40409031510355,
+            "type": "session",
+            "id": "room7",
+            "title": "Room 7"
+          },
+          {
+            "lat": 37.78329705998422,
+            "lng": -122.40366887301208,
+            "type": "label",
+            "id": "codelab",
+            "title": "Code Lab"
+          },
+          {
+            "lat": 37.782662033,
+            "lng": -122.4037747,
+            "type": "label",
+            "id": "childcare",
+            "title": "Childcare"
+          },
+          {
+            "lat": 37.78325148340904,
+            "lng": -122.40336142480373,
+            "type": "partnerlabel",
+            "id": "partnersandboxlabel",
+            "title": "Partner\nSandbox"
+          },
+          {
+            "lat": 37.78325148340904,
+            "lng": -122.40336142480373,
+            "type": "partner",
+            "id": "partnersandboxmarker",
+            "title": "Partner Sandbox"
+          },
+          {
+            "lat": 37.78359357201673,
+            "lng": -122.40373123437165,
+            "type": "plainsession",
+            "id": "dddsandbox",
+            "title": "Design, Develop, Distribute"
+          },
+          {
+            "lat": 37.78293854116584,
+            "lng": -122.40343887358904,
+            "type": "label",
+            "id": "communitylounge",
+            "title": "Community\nLounge"
+          },
+          {
+            "lat": 37.783049568,
+            "lng": -122.4045865,
+            "type": "label",
+            "id": "workshops",
+            "title": "Workshops"
+          }
+        ],
+        "0": [
+          {
+            "lat": 37.78280631538293,
+            "lng": -122.40401487797499,
+            "type": "session",
+            "id": "room8",
+            "title": "Room 8"
+          },
+          {
+            "lat": 37.78304877330107,
+            "lng": -122.40369502454996,
+            "type": "label",
+            "id": "press",
+            "title": "Press"
+          },
+          {
+            "lat": 37.78311289865024,
+            "lng": -122.40422375500204,
+            "type": "label",
+            "id": "keynote",
+            "title": "Keynote"
+          }
+        ],
+        "2": [
+          {
+            "lat": 37.78381535905965,
+            "lng": -122.40362226963043,
+            "type": "label",
+            "id": "northentrance",
+            "title": "Entrance"
+          },
+          {
+            "lat": 37.783153970642175,
+            "lng": -122.40306705236436,
+            "type": "label",
+            "id": "eastentrance",
+            "title": "Entrance"
+          },
+          {
+            "lat": 37.78291495782711,
+            "lng": -122.40424688905476,
+            "type": "label",
+            "id": "lunchroom",
+            "title": "Breakfast / Lunch Cafes"
+          },
+          {
+            "lat": 37.78336807459184,
+            "lng": -122.40321557968855,
+            "type": "label",
+            "id": "bikeparking",
+            "title": "Bike Parking"
+          },
+          {
+            "lat": 37.78308163092494,
+            "lng": -122.40339562296866,
+            "type": "label",
+            "id": "mothersroom",
+            "title": "Mothers Room"
+          },
+          {
+            "lat": 37.7836039061948,
+            "lng": -122.40369737148283,
+            "type": "label",
+            "id": "regoinfo",
+            "title": "Registration\nInformation Desk"
+          },
+          {
+            "lat": 37.78331825838168,
+            "lng": -122.40340635180475,
+            "type": "label",
+            "id": "gearpickup",
+            "title": "Gear Pickup"
+          },
+          {
+            "lat": 37.78369,
+            "lng": -122.403923,
+            "type": "label",
+            "id": "glassbasecamp",
+            "title": "Glass\nBasecamp"
+          }
+        ]
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "bio": "",
+      "name": "Alê Borba",
+      "company": "Google",
+      "plusoneUrl": "https://plus.google.com/u/0/+AlêBorba",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ale-borba.jpg",
+      "id": "ale-borba",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Breno Araújo",
+      "company": "Google",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/breno-araujo.jpg",
+      "id": "breno-araujo",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Hélio Padrão",
+      "company": "Nubank",
+      "plusoneUrl": "https://plus.google.com/u/0/+HélioPadrão",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/helio-padrao.jpg",
+      "id": "helio-padrao",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Suelen Goularte Carvalho",
+      "company": "Tripda",
+      "plusoneUrl": "https://plus.google.com/+SuelenGoularteCarvalho",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/suelen-carvalho.jpg",
+      "id": "suelen-carvalho",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Nelson Glauber",
+      "company": "CESAR",
+      "plusoneUrl": "https://plus.google.com/+NelsonGlauber",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/nelson-glauber.jpg",
+      "id": "nelson-glauber",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Marcelo Quinta",
+      "company": "UFG",
+      "plusoneUrl": "https://plus.google.com/+MarceloQuinta",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/marcelo-quinta.jpg",
+      "id": "marcelo-quinta",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Ana Paula Batista",
+      "company": "Google Design Expert",
+      "plusoneUrl": "https://plus.google.com/+AnaPaulaBatistaUX",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ana-paula-batista.jpg",
+      "id": "ana-paula-batista",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Eduardo Carrara",
+      "company": "Intel",
+      "plusoneUrl": "https://plus.google.com/+EduardoCarraraDeAraujo",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/eduardo-carrara.jpg",
+      "id": "eduardo-carrara",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Joselito Júnior",
+      "company": "GDG Recife",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/joselito-junior.jpg",
+      "id": "joselito-junior",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Alda Rocha",
+      "company": "Instrutora UX",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/alda-rocha.jpg",
+      "id": "alda-rocha",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Wilson Mendes",
+      "company": "ThoughtWorks",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/wilson-mendes.png",
+      "id": "wilson-mendes",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Gustavo Pantuza",
+      "company": "Globo.Com",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/gustavo-pantuza.jpg",
+      "id": "gustavo-pantuza",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Beto Muniz e Paulo Pires",
+      "company": "",
+      "plusoneUrl": "",
+      "thumbnailUrl": "",
+      "id": "Beto Muniz e Paulo Pires",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Ana Carolina Soares",
+      "company": "",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ana-carolina.png",
+      "id": "ana-carolina",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Matt Montenegro e Liliane Carvalho",
+      "company": "",
+      "plusoneUrl": "",
+      "thumbnailUrl": "",
+      "id": "matt-liliane",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Felipe Silvestre",
+      "company": "Hotmart",
+      "plusoneUrl": "",
+      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/felipe-silvestre.jpg",
+      "id": "felipe-silvestre",
+      "publicPlusId": ""
+    }
+  ],
+  "blocks": [
+    {
+      "start": "2015-10-24T10:00:00.000Z",
+      "title": "Credenciamento",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T10:50:00.000Z"
+    },
+    {
+      "start": "2015-10-24T10:50:00.000Z",
+      "title": "Welcome coffee",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T11:10:00.000Z"
+    },
+    {
+      "start": "2015-10-24T11:15:00.000Z",
+      "title": "Abertura",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T11:30:00.000Z"
+    },
+    {
+      "start": "2015-10-24T12:00:00.000Z",
+      "title": "Coffee Break",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T12:20:00.000Z"
+    },
+    {
+      "start": "2015-10-24T14:00:00.000Z",
+      "title": "Almoço",
+      "type": "break",
+      "subtitle": "O almoço não está incluso.",
+      "end": "2015-10-15T15:30:00.000Z"
+    },
+    {
+      "start": "2015-10-24T17:25:00.000Z",
+      "title": "Coffee Break",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T17:40:00.000Z"
+    },
+    {
+      "start": "2015-10-24T19:10:00.000Z",
+      "title": "Sorteio de brindes, foto final e encerramento",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-24T19:30:00.000Z"
+    },
+    {
+      "start": "2015-10-24T19:30:00.000Z",
+      "title": "Happy Hour",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-10-25T22:00:00.000Z"
+    }
+  ],
+  "partners": [],
+  "sessions": [
+    {
+      "speakers": [
+        "ale-borba"
+      ],
+      "description": "",
+      "title": "Keynote",
+      "url": "",
+      "startTimestamp": "2015-10-24T11:30:00Z",
+      "tags": [
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066d7",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T12:20:00Z",
+      "captionsUrl": "",
+      "color": "#3f51b5"
+    },
+    {
+      "speakers": [
+        "breno-araujo"
+      ],
+      "description": "",
+      "title": "Introdução à DeepLinks e App Indexing",
+      "url": "",
+      "startTimestamp": "2015-10-24T12:20:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066d8",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T13:10:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "helio-padrao"
+      ],
+      "description": "",
+      "title": "Nubank + Refactor + Android Architecture",
+      "url": "",
+      "startTimestamp": "2015-10-24T13:10:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066d9",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T14:00:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "suelen-carvalho"
+      ],
+      "description": "",
+      "title": "As últimas novidades que todo desenvolvedor deveria saber sobre Android",
+      "url": "",
+      "startTimestamp": "2015-10-24T15:30:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066da",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T16:00:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "nelson-glauber"
+      ],
+      "description": "",
+      "title": "Android Wear",
+      "url": "",
+      "startTimestamp": "2015-10-24T16:05:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066db",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T16:35:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "marcelo-quinta"
+      ],
+      "description": "",
+      "title": "NearBy e Beacons",
+      "url": "",
+      "startTimestamp": "2015-10-24T16:45:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066dc",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T17:20:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "ana-paula-batista"
+      ],
+      "description": "",
+      "title": "Design Sprint: seu MLP em até 5 dias",
+      "url": "",
+      "startTimestamp": "2015-10-24T17:40:00Z",
+      "tags": [
+        "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066dd",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T18:15:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "eduardo-carrara"
+      ],
+      "description": "",
+      "title": "Utilizando o Espresso e UIAutomator na Automação de Testes em Apps Android",
+      "url": "",
+      "startTimestamp": "2015-10-24T18:15:00Z",
+      "tags": [
+      "THEME_MOBILE"],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066de",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T19:00:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "joselito-junior"
+      ],
+      "description": "",
+      "title": "¿Web o Plomo? O Chrome e uma web cada vez mais nativa",
+      "url": "",
+      "startTimestamp": "2015-10-24T15:30:00Z",
+      "tags": [
+      "THEME_WEB"],
+      "id": "fbaaedc8-61f2-e311-903f-asdfsdfdsfas",
+      "room": "nivel-1",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T16:00:00Z",
+      "captionsUrl": "",
+      "color": "#1EAAF1"
+    },
+    {
+      "speakers": [
+        "alda-rocha"
+      ],
+      "description": "",
+      "title": "Lendas e mitos sobre design e layout responsivo",
+      "url": "",
+      "startTimestamp": "2015-10-24T16:45:00Z",
+      "tags": [
+      "THEME_WEB"],
+      "id": "fbaaedc8-61f2-e311-903f-ddsadf",
+      "room": "nivel-1",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T17:20:00Z",
+      "captionsUrl": "",
+      "color": "#1EAAF1"
+    },
+    {
+      "speakers": [
+        "wilson-mendes"
+      ],
+      "description": "",
+      "title": "Performance com AngularJS",
+      "url": "",
+      "startTimestamp": "2015-10-24T17:40:00Z",
+      "tags": [
+      "THEME_WEB"],
+      "id": "fbaaedc8-61f2-e311-903f-234dfsdgasfd",
+      "room": "nivel-1",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T18:15:00Z",
+      "captionsUrl": "",
+      "color": "#1EAAF1"
+    },
+    {
+      "speakers": [
+        "gustavo-pantuza"
+      ],
+      "description": "",
+      "title": "Sockets em baixo nível",
+      "url": "",
+      "startTimestamp": "2015-10-24T18:20:00Z",
+      "tags": [
+      "THEME_WEB"],
+      "id": "fbaaedc8-61f2-e311-903f-dfgdfg34435",
+      "room": "nivel-1",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T19:00:00Z",
+      "captionsUrl": "",
+      "color": "#1EAAF1"
+    },
+    {
+      "speakers": [
+        "Beto Muniz e Paulo Pires"
+      ],
+      "description": "",
+      "title": "Espaço Comunidades",
+      "url": "",
+      "startTimestamp": "2015-10-24T15:30:00Z",
+      "tags": [
+      "THEME_EXPO"],
+      "id": "fbaaedc8-61f2-e311-903f-dfvcvw",
+      "room": "nivel-2",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T16:45:00Z",
+      "captionsUrl": "",
+      "color": "#E62565"
+    },
+    {
+      "speakers": [
+        "ana-carolina"
+      ],
+      "description": "",
+      "title": "Espaço Mulheres na Tecnologia",
+      "url": "",
+      "startTimestamp": "2015-10-24T16:45:00Z",
+      "tags": [
+      "THEME_EXPO"],
+      "id": "fbaaedc8-61f2-e311-903f-wertv",
+      "room": "nivel-2",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T17:25:00Z",
+      "captionsUrl": "",
+      "color": "#E62565"
+    },
+    {
+      "speakers": [
+        "matt-liliane"
+      ],
+      "description": "",
+      "title": "Espaço Startups",
+      "url": "",
+      "startTimestamp": "2015-10-24T17:40:00Z",
+      "tags": [
+      "THEME_EXPO"],
+      "id": "fbaaedc8-61f2-e311-903f-wedfbdf",
+      "room": "nivel-2",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T19:00:00Z",
+      "captionsUrl": "",
+      "color": "#E62565"
+    },
+    {
+      "speakers": [
+        "felipe-silvestre"
+      ],
+      "description": "",
+      "title": "Conheça os bastidores que tornaram a Hotmart, uma startup de dois programadores, em um negócio de escala global",
+      "url": "",
+      "startTimestamp": "2015-10-24T16:05:00Z",
+      "tags": [
+        "THEME_WEB"],
+      "id": "fbaaedc8-61f2-e311-903f-wfbdf54",
+      "room": "nivel-1",
+      "isLivestream": false,
+      "endTimestamp": "2015-10-24T16:35:00Z",
+      "captionsUrl": "",
+      "color": "#1EAAF1"
+    }
+  ],
+  "video_library": [],
+  "hashtags": [
+    {
+      "color": "#303f9f",
+      "order": 1,
+      "name": "#DevFestSudeste",
+      "description": "Follow the general Google+ social conversation happening around DevFest 2015."
+    },
+    {
+      "color": "#9fa8da",
+      "order": 10,
+      "name": "#DevFestSudeste #Web",
+      "description": "Follow the Google+ social conversation about the Keynote announcements at DevFest 2015."
+    },
+    {
+      "color": "#3f51b5",
+      "order": 20,
+      "name": "#DevFestSudeste #Mobile",
+      "description": "Follow the Google+ social conversation about \"Design\" at DevFest 2015."
+    },
+    {
+      "color": "#03a9f4",
+      "order": 21,
+      "name": "#DevFestSudeste #Expo",
+      "description": "Follow the Google+ social conversation about \"Develop\" at DevFest 2015."
+    },
+    {
+      "color": "#558b2f",
+      "order": 31,
+      "name": "#DevFestSudeste #Hackathon",
+      "description": "Follow the Google+ social conversation about \"Android\" at DevFest 2015."
+    },
+    {
+      "color": "#3367d6",
+      "order": 32,
+      "name": "#DevFestSudeste #Comunidades",
+      "description": "Follow the Google+ social conversation about \"Chrome\" at DevFest 2015."
+    }
+  ],
+  "experts": [],
+  "rooms": [
+    {
+      "original_id": "f770c62b-2cda-e311-b297-00155d5066d7",
+      "id": "principal",
+      "name": "Auditório"
+    },
+    {
+      "original_id": "f770c62b-2cda-e311-b297-00155d5066d8",
+      "id": "nivel-1",
+      "name": "Nível 1"
+    },
+    {
+      "original_id": "f770c62b-2cda-e311-b297-00155d5066d0",
+      "id": "nivel-2",
+      "name": "Nível 2"
+    }
+  ],
+  "tags": [
+    {
+      "category": "THEME",
+      "name": "Web",
+      "abstract": "",
+      "tag": "THEME_WEB",
+      "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
+      "order_in_category": 2
+    },
+    {
+      "category": "THEME",
+      "name": "Mobile",
+      "abstract": "",
+      "tag": "THEME_MOBILE",
+      "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
+      "order_in_category": 2
+    },
+    {
+      "category": "THEME",
+      "name": "Comunidades",
+      "abstract": "",
+      "tag": "THEME_EXPO",
+      "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
+      "order_in_category": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+.DS_Store
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Mirror
+mirror/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Gitflow
+gitflow/
+
+**/com_crashlytics_export_strings.xml
+**/crashlytics-build.properties
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/gradle.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
